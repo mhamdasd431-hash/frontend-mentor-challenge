@@ -9,13 +9,13 @@
         <img src="avatar-jessica.jpeg" alt="Jessica Randell" class="avatar">
         <h1>Jessica Randell</h1>
         <h3>London United Kindom</h3>
-        <h3 class="tit">"Front-End Developer and avid reader"</h2>
+        <h3 class="tit">"Front-End Developer and avid reader"</h3>
         <div class="main">
-            <h3 class="zx">GitHub</h3>
-            <h3 class="zx">Forntend Mentor</h3>
-            <h3 class="zx">Linkedin</h3>
-            <h3 class="zx">Twitter</h3>
-            <h3 class="zx">Instagram</h3>
+            <a class="zx" href="https://github.com/...">GitHub</a>
+            <a class="zx" href="https://www.frontendmentor.io/...">Frontend Mentor</a>
+            <a class="zx" href="https://www.linkedin.com/...">Linkedin</a>
+            <a class="zx" href="https://twitter.com/...">Twitter</a>
+            <a class="zx" href="https://www.instagram.com/...">Instagram</a>
         </div>
         </div>
     </body>
