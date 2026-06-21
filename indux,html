@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+    <head>
+        <title>ID card</title>
+        <link rel="stylesheet" type="text/css" href="card.css">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <div class="card">
+        <img src="avatar-jessica.jpeg" alt="Jessica Randell" class="avatar">
+        <h1>Jessica Randell</h1>
+        <h3>London United Kindom</h3>
+        <h3 class="tit">"Front-End Developer and avid reader"</h2>
+        <div class="main">
+            <h3 class="zx">GitHub</h3>
+            <h3 class="zx">Forntend Mentor</h3>
+            <h3 class="zx">Linkedin</h3>
+            <h3 class="zx">Twitter</h3>
+            <h3 class="zx">Instagram</h3>
+        </div>
+        </div>
+    </body>
+</html>

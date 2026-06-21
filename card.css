@@ -1,0 +1,56 @@
+body{
+    background-color:rgb(26, 26, 26);
+    margin-top: 100px;
+    text-align:center;
+    width:100%;
+ }
+ 
+ @font-face{
+   font-family: 'main';
+    src: url('Downloads/ID_Card/Untitled Folder 2/assets/fonts/Inter-VariableFont_slnt,wght.ttf') format('truetype');
+   }
+
+ div.card{
+  padding: 20px;
+  background-color: rgb(44, 43, 43);
+  width: 420px;
+  display: inline-block;
+  border-radius: 20px;
+  height: 725px;
+  font-family: 'main', sans-serif !important;
+}
+ 
+ 
+ img{
+    border-radius: 50%;
+ }
+
+ h1{
+    color: white;
+ }
+ 
+ h3{
+    color:rgb(135, 206, 43);
+ }
+ 
+ .tit{
+    color: rgb(169, 165, 165);
+}
+
+.main{
+    color: white;
+}
+
+.zx{
+   color:white;
+    border-radius: 10px;
+    margin-top: 30px;
+    background-color: rgb(62, 61, 61);
+    border:none;
+    cursor: pointer;
+    padding: 8px;
+}
+
+.zx:hover{
+    color: rgb(89, 255, 0);
+ }

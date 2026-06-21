@@ -1,0 +1,52 @@
+body{
+    background-color:rgb(26, 26, 26);
+    margin-top: 100px;
+    text-align:center;
+    width:100%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ }
+
+ div.card{
+  padding: 20px;
+  background-color: rgb(44, 43, 43);
+  width: 400px;
+  display: inline-block;
+  border-radius: 20px;
+  height: 690px;
+}
+ 
+ 
+ img{
+    border-radius: 50%;
+ }
+
+ h1{
+    color: white;
+ }
+ 
+ h3{
+    color:rgb(18, 183, 18);
+ }
+ 
+ .tit{
+    color: rgb(169, 165, 165);
+}
+
+.main{
+    color: white;
+    
+}
+
+.zx{
+    border: 1px solid rgb(81, 79, 79);
+    border-radius: 10px;
+    margin-top: 30px;
+    background-color: rgb(62, 61, 61);
+    border:none;
+    cursor: pointer;
+    padding: 8px;
+}
+
+.zx:hover{
+    color: rgb(89, 255, 0);
+ }
